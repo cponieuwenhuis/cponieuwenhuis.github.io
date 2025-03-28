@@ -5,4 +5,4 @@ This repository contains modifications to the PRISMS Plasticity code, made by me
 In addition, the repository includes a standalone Python script implementing the Discrete Slip Plane (DSP) model in the file 'dspcodeappendix'.
 
 ## Notes
-These changes are part of my work in exploring plastic deformation models. Feel free to explore or reach out with questions.
+These changes are part of my work in exploring plastic deformation models. Feel free to explore or reach out with questions. Questions may be mailed to c.p.o.nieuwenhuis@student.rug.nl.
